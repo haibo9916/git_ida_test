@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("hello,git4");
         System.out.println("master text");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
