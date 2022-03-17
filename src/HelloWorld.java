@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("master text");
         System.out.println("hot-fix test");
         System.out.println("push test");
+        System.out.println("push test2");
     }
 }
